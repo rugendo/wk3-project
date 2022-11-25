@@ -8,7 +8,7 @@
 
 ## Description
 
-The web application has the images and description of sample projects offered. The customer can toggle their mouse on the images and get the description. Wehn they click on portfolio, they get a statement which helps them understand the varius products offered. Finally we have offered an entry areas where customer can enter their email and submit their details. The customer gets a response after submiting their details to notify them that we have received their order.
+The web application has the images and description of servcies offered. The customer can toggle their mouse over the images and get the description. When they click on portfolio, they get a statement which helps them understand the the services on the page. We have offered data entry areas where customer can enter their email and submit their details. The customer gets a response after submiting their details to notify them that we have received their order.
 
 ## Setup/Installation Requirements
 
@@ -28,7 +28,7 @@ No Bugs
 * CSS
 * JAVASCRIPT
 * BOOTSRAP
-*jQuery
+* jQuery
 
 ## Support and contact details
 
@@ -48,4 +48,4 @@ Copyright (c) 2022 **rugendo**
 
 *This project uses MIT license.*
 
-Copyright (c) 2022 **YOUR NAME HERE**
+Copyright (c) 2022 **rugendo**
