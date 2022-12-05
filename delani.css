@@ -23,8 +23,28 @@
 
 .services {
     text-align: center;
-    background-image: url ("./images/background/s_image.jpg");
+    background-image: url("./images/background/s_image.jpg");
     background-repeat: no-repeat;
-    color: black;
+    color: white;
     background-size: 100%;
+
+}
+
+.contact {
+    text-align: center;
+    background-image: url("./images/background/c_image.jpg");
+    background-repeat: no-repeat;
+    color: red;
+    background-size: 100%;
+    background-position: center;
+}
+
+
+.col-m-3{
+    text-align: center;
+
+}
+
+.end {
+    text-align: center;
 }
