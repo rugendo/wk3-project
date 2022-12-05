@@ -6,3 +6,8 @@
     flex: 33.33%;
     padding: 5px;
   }
+.col-m-4 {
+    flex: 25%;
+    padding: 3px;
+
+}
