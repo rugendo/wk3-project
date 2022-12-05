@@ -36,7 +36,7 @@ For any support contact me on: ericrugendo@gmail.com
 
 ## Github Pages
 
-The site is live at : LINK TO YOUR WEBSITE HERE
+The site is live at : https://rugendo.github.io/wk3-project/
 
 ### License
 
