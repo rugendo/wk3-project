@@ -29,4 +29,14 @@
     background-repeat: no-repeat;
     color: white;
     background-size: 100%;
+
+}
+
+.contact {
+    text-align: center;
+    background-image: url("./images/background/c_image.jpg");
+    background-repeat: no-repeat;
+    color: red;
+    background-size: 100%;
+    background-position: center;
 }
