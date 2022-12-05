@@ -38,6 +38,11 @@
     background-size: 100%;
     background-position: center;
 }
+.message {
+    height: 150px;
+    text-align: center;
+    
+}
 
 
 .col-m-3 {
