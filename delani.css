@@ -25,8 +25,8 @@
 
 .services {
     text-align: center;
-    background-image: url ("./images/background/s_image.jpg");
+    background-image: url("./images/background/s_image.jpg");
     background-repeat: no-repeat;
-    color: black;
+    color: white;
     background-size: 100%;
 }
