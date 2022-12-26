@@ -65,4 +65,24 @@
         $('.sdesign').hide();
         $('.desig').show();
     });
+
+    $('.sdevelopment').hide();
+    $('.develop').click(function(){
+        $('.develop').hide();
+        $('.sdevelopment').show();
+    });
+    $('.sdevelopment').click(function(){
+        $('.sdevelopment').hide();
+        $('.develop').show();
+    });
+
+    $('.sproduct').hide();
+    $('.produc').click(function(){
+        $('.produc').hide();
+        $('.sproduct').show();
+    });
+    $('.sproduct').click(function(){
+        $('.sproduct').hide();
+        $('.produc').show();
+    });
     
