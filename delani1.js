@@ -84,18 +84,20 @@ $('.sproduct').click(function () {
     $('.produc').show();
 });
 
-function getMessage(){
 
+$('.contact').submit(function () {
     let nameValue = document.getElementById('name').value;
-    let emailValue = document.getElementById('email').value;    
+    let emailValue = document.getElementById('email').value;
 
-    if (nameValue !=="" && emailValue !=="" ){
-        alert("Hello  "+ nameValue +" , we have received your contact details and message. Thank you");
-    }   
-    
-    else{
+    if (nameValue !== "" && emailValue !== "") {
+        alert("Hello  " + nameValue + " , we have received your message and contact details. Thank you");
+    }
+
+    else {
         alert(" Enter your name,email and a message, then click submit button");
     }
 
-}
-getMessage();
+
+})
+
+

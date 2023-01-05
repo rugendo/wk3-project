@@ -6,13 +6,13 @@
 .column {
     flex: 33.33%;
     padding: 5px;
-  }
+}
 
 .col-m-4 {
     flex: 25%;
     padding: 3px;
-    text-align: center; 
-    color: blue;     
+    text-align: center;
+    color: blue;
 
 }
 
@@ -24,7 +24,7 @@
     background-size: 100%;
     color: black;
     height: 400px;
-   
+
 }
 
 .services {
@@ -35,7 +35,7 @@
     background-size: 100%;
     width: auto;
     height: 300px;
-    
+
 
 }
 
@@ -47,16 +47,18 @@
     background-size: 100%;
     background-position: center;
 }
+
 .message {
     height: 200px;
     text-align: center;
-       
+
 }
+
 #message {
     height: 150px;
-    width: 650px ;
-    
-    
+    width: 650px;
+
+
 }
 
 
@@ -64,13 +66,15 @@
     text-align: center;
 
 }
-input[type=text]{
+
+input[type=text] {
     background-color: inherit;
     color: white;
     border-color: white;
-    
+
 }
-input[type=email]{
+
+input[type=email] {
     background-color: inherit;
     color: white;
     border-color: white;
