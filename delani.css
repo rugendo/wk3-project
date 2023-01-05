@@ -2,17 +2,20 @@
     display: flex;
 
 }
+
 .column {
     flex: 33.33%;
     padding: 5px;
   }
+
 .col-m-4 {
     flex: 25%;
     padding: 3px;
-    text-align: center;
-      
+    text-align: center; 
+    color: blue;     
 
 }
+
 
 .Introduction {
     text-align: center;
@@ -47,7 +50,7 @@
 .message {
     height: 200px;
     text-align: center;
-    
+       
 }
 #message {
     height: 150px;
